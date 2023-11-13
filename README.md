@@ -16,4 +16,4 @@
 </div><br/>
 
 Apaixonado por tecnologia, venho estudando e evoluindo cada vez mais.<br/> 
-No momento estou cursando Sistemas para Internet na FIAP.
+No momento estou cursando Sistemas para Internet na FIAP e sou formado em Gestão de Tecnologia da Informação.
