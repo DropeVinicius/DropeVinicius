@@ -12,13 +12,7 @@
     <img align="center" alt="Pedro-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Pedro-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 </div>
-
 <hr>
-<b>Meus contatos:</b>
-<div>
-  <a href="https://www.linkedin.com/in/pedro-dias-330961221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:pv.pires@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
 <h2>Um pouco sobre mim</h2>
 Apaixonado por tecnologia, venho estudando e evoluindo cada vez mais.<br/> 
 No momento estou cursando Sistemas para Internet na FIAP e sou formado em Gestão de Tecnologia da Informação.
